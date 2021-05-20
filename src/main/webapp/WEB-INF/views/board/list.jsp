@@ -26,7 +26,7 @@
   	height: 50px;
   }
   th{
-  	font-size : 18px;
+  	font-size : 17px;
   }
   thead{
   	font-weight: 700;
